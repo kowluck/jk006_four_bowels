@@ -1,7 +1,7 @@
 // Nov 2013
 // http://jiyu-kenkyu.org
 // http://kow-luck.com
-// Based on a work at http://www.zenbullets.com.
+// Based on a work at http://www.zenbullets.com // http://abandonedart.org/
 //
 // This work is licensed under a Creative Commons 3.0 License.
 // (Attribution - NonCommerical - ShareAlike)
